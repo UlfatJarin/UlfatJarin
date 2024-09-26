@@ -9,5 +9,5 @@ Skills:  REACT / JS / HTML / CSS/ C /C++/ Bootstrap/ Tailwind/ Illustrator/Figma
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UlfatJarin&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=UlfatJarin)  
+
 
