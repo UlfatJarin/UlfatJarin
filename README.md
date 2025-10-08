@@ -1,7 +1,7 @@
 
 I'm Ulfat, a Front-End developer who is passionate about open source and enjoys experimenting with new ideas.
 
-Skills:  REACT / JS / HTML / CSS/ C /C++/ Bootstrap/ Tailwind/ Illustrator/Figma
+Skills:  REACT / JS / Python / HTML / CSS / C / C++ / Bootstrap/ Tailwind/ Illustrator/Figma
 
 
 
